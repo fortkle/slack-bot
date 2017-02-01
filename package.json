@@ -1,0 +1,18 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "slackbot using botkit",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fortkle/slack-bot.git"
+  },
+  "author": "fortkle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fortkle/slack-bot/issues"
+  },
+  "homepage": "https://github.com/fortkle/slack-bot#readme"
+}
