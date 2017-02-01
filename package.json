@@ -22,7 +22,8 @@
   "homepage": "https://github.com/fortkle/slack-bot#readme",
   "devDependencies": {
     "babel-eslint": "^7.1.1",
-    "eslint": "^3.14.1"
+    "eslint": "^3.14.1",
+    "foreman": "^2.0.0"
   },
   "dependencies": {
     "babel-cli": "^6.22.2",
