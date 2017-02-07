@@ -1,8 +1,11 @@
 import Botkit from 'botkit'
 
+import redis from './redis'
+
 // Botkit
 const controller = Botkit.slackbot({
-  debug: false
+  debug: false,
+  storage: redis()
 })
 controller.spawn({
   token: process.env.SLACK_TOKEN
