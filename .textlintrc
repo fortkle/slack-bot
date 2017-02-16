@@ -1,0 +1,14 @@
+{
+  "rules" : {
+    "no-doubled-conjunctive-particle-ga": true,
+    "no-doubled-conjunction": true,
+    "no-doubled-joshi": true,
+    "ja-no-successive-word": true,
+    "ja-yahoo-kousei": true,
+    "prh": {
+      "rulePaths": [
+        "./dict/prh.yml"
+      ]
+    }
+  },
+}

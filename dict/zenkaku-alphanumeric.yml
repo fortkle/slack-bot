@@ -1,0 +1,5 @@
+version: 1
+rules:
+  # 本来、expectedには「期待される値」が書かれるべきだがtextlint-rule-prhがprhフィールドに対応していないので「エラーメッセージ」を書く
+  - expected: 全角英数字が使われています。
+    patterns: /[０-９ａ-ｚＡ-Ｚ]+/

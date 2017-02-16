@@ -1,0 +1,6 @@
+version: 1
+imports:
+  - ./obsolete-word.yml
+  - ./kaomoji.yml
+  - ./hankaku-kana.yml
+  - ./zenkaku-alphanumeric.yml
