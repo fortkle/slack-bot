@@ -29,16 +29,15 @@
     "babel-cli": "^6.22.2",
     "babel-core": "^6.22.1",
     "babel-plugin-transform-runtime": "^6.22.0",
-    "babel-preset-es2015": "^6.22.0",
-    "babel-preset-es2016": "^6.22.0",
+    "babel-preset-env": "^1.6.1",
     "botkit": "^0.4.10",
     "botkit-storage-redis": "^1.1.0",
-    "textlint": "^7.2.2",
+    "textlint": "^10.1.4",
     "textlint-rule-ja-no-successive-word": "^1.0.2",
     "textlint-rule-ja-yahoo-kousei": "^1.0.3",
     "textlint-rule-no-doubled-conjunction": "^1.0.2",
     "textlint-rule-no-doubled-conjunctive-particle-ga": "^1.0.2",
-    "textlint-rule-no-doubled-joshi": "^3.4.0",
-    "textlint-rule-prh": "^3.1.3"
+    "textlint-rule-no-doubled-joshi": "^3.5.1",
+    "textlint-rule-prh": "^5.0.1"
   }
 }
